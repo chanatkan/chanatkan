@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chanatkan
-- 👀 I’m interested in UX Research
+- 👀 I am a UX Researcher with BS in psychogy. I am currently work in Thailand Tech company. Experienced in research mixed method in both quantitative and qualitative.
 - 🌱 I’m currently learning more about UX Research and other related skills
-- 📫 How to reach me chk.meme@gmail.com
+- 📫 Reach me chk.meme@gmail.com
 
 <!---
 chanatkan/chanatkan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
